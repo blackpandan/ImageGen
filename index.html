@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+  
+    <!-- for favico -->
+    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+  
+    <!-- for fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700;800;900&family=Poppins:wght@100;200;300;400&display=swap" rel="stylesheet">
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Ai Image Generator</title>
+  
+  </head>
+  <body>
+    <header class="header">
+      <h1 class="header__greeting">Hello there!</h1>
+      <p class="header__message">"Create stunning images! Enter your ideas, and let AI do the rest.</p> 
+    </header>
+    <main id="app" class="main">
+      <form action="" class="form" id="form">
+        <input type="text" class="form__prompt" placeholder="Type your prompt" aria-label="" name="" id="userPrompt" rows="1" />
+        <p class="form__message"> Click 'Generate,' and enjoy the magic!"</p>
+        <input class="button button--primary form__submit" type="submit" value="Generate" required>     
+      </form>
+      <div class="loaderContainer" id="loader">
+        <div class="loader"></div>
+      </div>
+      <div class="gallery" id="gallery">
+      </div>
+    </main>
+    <footer class="footer"></footer>
+
+    <script type="module" src="assets/js/main.js"></script>
+  </body>
+</html>

@@ -6,9 +6,9 @@ https://immgen.netlify.app/
 
 ## Sample Images
 
-![image](https://github.com/blackpandan/ImageGen/assets/66978421/0853e8df-4ba9-4dd3-9a6f-8afd1735dc2c)
+![image](https://github.com/blackpandan/ImageGen/assets/66978421/08594543-72d0-4819-8963-e8ac93a4c010)
+![image](https://github.com/blackpandan/ImageGen/assets/66978421/5b1b1ea0-4a2d-43cd-b157-dd3dfffd31d0)
 
-![image](https://github.com/blackpandan/ImageGen/assets/66978421/7fd8d222-342f-4da5-ac71-1f04b4c19f0e)
 
 ## Credits
 
